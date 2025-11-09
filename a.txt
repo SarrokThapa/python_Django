@@ -1,0 +1,8 @@
+Name,Age,City
+
+Sarrok Thapa,20,Kathmandu
+
+John Doe,25,New York
+
+Jane Smith,30,Los Angeles
+

@@ -1,0 +1,6 @@
+f = open("a.txt", "w")
+f.write("SARROK THAPA")
+f = open("a.txt", "r")
+x = f.read()
+print(x)
+f.close()
