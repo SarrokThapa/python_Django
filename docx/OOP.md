@@ -35,3 +35,4 @@ How it works: Always the first parameter in methods (except static/class methods
 ### Quick Full Example
 ![alt text](image-4.png)
 
+# Why there is no public, private, protected )

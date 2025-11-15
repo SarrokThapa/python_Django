@@ -1,6 +1,7 @@
 class Person:
-    def __init__(self, name, age):
+    def __init__(self, name):
         self.name = name
-        self.age = age
-Sarrok = Person("Sarrok", 25)
-print(Sarrok.name)
+obj = Person("Sarrok") #Yo line le naya object obj banaucha. __init__ automatic chalcha, ra name parameter ma "Sarrok" pass hunchha. Ab obj.name ma "Ram" hunchha.
+
+
+print(obj.name)
