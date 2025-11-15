@@ -2,10 +2,9 @@
 pip = Python Package Installer
 It is used to install, update, and remove external Python libraries/modules.
 ```pip install django
-    pip install numpy```
+    pip install numpy
 
-
-# What does pip do?
+#What does pip do?
 
 pip allows you to:
 
@@ -17,4 +16,4 @@ pip allows you to:
 # What is pip freeze?
 pip freeze shows all installed packages + their versions.
 It is mainly used to create requirements.txt for projects:
-``` pip freeze > requirements.txt ```
+``` pip freeze > requirements.txt 
